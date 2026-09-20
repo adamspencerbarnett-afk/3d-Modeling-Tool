@@ -82,4 +82,4 @@ The offline viewer requires WebGL 2 for interactive orbit controls and offers st
 
 ## License
 
-The kit's code, documentation, and included procedural examples are available under the [MIT License](LICENSE). Third-party components retain their own licenses and credits; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Uploaded models and images keep their own terms.
+The kit's code, documentation, and included procedural examples are available under (no lincese, modify all you want). Third-party components retain their own licenses and credits; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Uploaded models and images keep their own terms.
