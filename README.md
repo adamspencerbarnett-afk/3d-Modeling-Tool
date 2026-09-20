@@ -2,7 +2,7 @@
 
 **Build and texture 3D models in chat.**
 
-[MIT License](LICENSE) · Version 11.3 · Static models · No separate studio
+- No license - mod to your hearts desire.
 
 Download the kit ZIP, attach it to a chat, and describe what to make. The assistant uses the included tools to create geometry, apply textures, inspect the result, and return a model you can download. You can start from a description, reference images, or a supported existing model.
 
